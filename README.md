@@ -1,1 +1,1 @@
-# Gomoku-one
+# GomokuOne
